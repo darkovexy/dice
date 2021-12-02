@@ -1,0 +1,2 @@
+This is another text file.
+New line added to the another.txt file
